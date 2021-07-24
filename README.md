@@ -1,5 +1,7 @@
 ### Hi there 👋
+<br/>
 
+Hello,I am Viswanath Akash.I am a pre-finale year undergrad at KIIT University. I am MERN stack Developer, I love working on Cloud Computing specially in AWS and also in DevOps.I am looking for working on software developer roles. 
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -15,5 +17,6 @@
 - ⚡ Fun fact: I am a content creator:)
  
  ## Techstacks & Tools-
+ 
  
  
